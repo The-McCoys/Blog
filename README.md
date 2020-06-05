@@ -33,5 +33,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/The-McCoys/Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-![783129BE-F49F-4613-B4B5-063B6B549C23.jpeg](https://drive.google.com/file/d/18aSFT80jMgI-tp4N9dMTE7-RO3lYmhef)
+![BACA36A4-021B-4078-B791-287CEA0A04E9](https://user-images.githubusercontent.com/59570607/83852877-bc62d680-a714-11ea-97f8-b9317b48dc94.jpeg)
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
